@@ -1,0 +1,42 @@
+[
+    {
+        "Student": "Jon",
+        "Score": 1	
+    },
+    {
+        "Student" : "Jack",
+        "Score": 2
+    },
+    {
+        "Student" : "Sue",
+        "Score": 1
+    },
+    {
+        "Student" : "Jade",
+        "Score": 2
+    },
+    {
+        "Student" : "Ben",
+        "Score" : 3
+    },
+    {
+        "Student" : "Dave",
+        "Score" : 4
+    },
+    {
+        "Student" : "Debby",
+        "Score" : 1
+    },
+    {
+        "Student" : "Kat",
+        "Score" : 4
+    },
+    {
+        "Student" : "Sal",
+        "Score" : 5
+    },
+    {
+        "Student" : "Jin",
+        "Score" : 2
+    }
+]
